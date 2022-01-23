@@ -1,0 +1,36 @@
+.background {
+    background: #1f1f1f;
+    height: 650px;
+    width: 1200px;
+    margin-left:100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.border {
+    height: 50px;
+    width: 200px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.line1 {
+    border: 5px solid coral;
+    color: coral;
+}
+.line2 {
+    border: 5px solid #50dfff;
+    color: #50dfff;
+}
+.line3 {
+    border: 5px solid #ef2bf6;
+    color: #ef2bf6;
+}
+.line4 {
+    border: 5px solid #f5131b;
+    color: #f5131b;
+}
