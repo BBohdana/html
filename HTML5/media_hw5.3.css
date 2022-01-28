@@ -1,0 +1,39 @@
+@media screen and (max-width: 375px) {
+    .bord20 {
+        border-radius: 20px;
+    }
+
+
+    .wrap {
+        width: 360px;
+        height: 712px;
+        row-gap: 10px;
+        justify-content: space-around;
+        margin: 0;
+        padding: 10px;
+    }
+
+    .A {
+        height: 100px;
+        width: 330px;
+        margin: 10px 10px 10px 10px;
+    }
+
+    .H {
+        height: 300px;
+        width: 330px;
+        margin: 10px 10px 10px 10px;
+
+    }
+
+    .box {
+        height: 80px;
+        width: 80px;
+        margin: 10px 10px 10px 10px;
+
+    }
+
+    .main {
+        display: contents;
+    }
+}

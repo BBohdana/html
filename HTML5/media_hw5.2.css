@@ -1,0 +1,41 @@
+@media screen and (max-width: 375px) {
+    .bord20 {
+        border-radius: 20px;
+    }
+
+    .w330 {
+        width: 330px;
+    }
+
+    .wrap {
+        width: 360px;
+        height: 712px;
+        row-gap: 10px;
+        justify-content: space-around;
+        margin:0;
+        padding: 10px;
+    }
+
+    .A {
+        height: 100px;
+        margin: 10px 10px 10px 10px;
+    }
+    .B {
+        height: 300px;
+        margin: 10px 10px 10px 10px;
+
+    }
+    .C,.D,.E {
+        height: 80px;
+        width: 80px;
+        margin: 10px 10px 10px 10px;
+    }
+    .F {
+        height: 100px;
+        align-self: flex-end;
+        margin: 10px 10px 10px 10px;
+    }
+    .main {
+        display: contents;
+    }
+}
