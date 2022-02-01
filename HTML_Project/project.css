@@ -1,0 +1,144 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    margin: 0;
+}
+p {
+    margin: 0;
+}
+.top_bar{
+    height: 83px;
+    margin-top: 16px;
+    margin-left: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_menu_left p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.nav_menu_middle {
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.nav_menu_right {
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+}
+button {
+    height: 54px;
+    width: 163px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.nav_menu_right button {
+    background: #1f1f1f;
+    color: white;
+    margin-right: 32px;
+    border: none;
+}
+.main_top {
+    height: 886px;
+    display: flex;
+    justify-content: space-between;
+}
+.images {
+    width: 600px;
+    height: 886px;
+    background: #F9C600;
+}
+.img {
+    position: relative;
+    top: 172px;
+    right: 102px;
+}
+.lines {
+    position: relative;
+    top: 230px;
+}
+.text {
+    width: 435px;
+    margin-left: 147px;
+    margin-top: 154px;
+}
+.text h2 {
+    font-size: 60px;
+    line-height: 64px;
+    margin: 0;
+}
+.text p {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 25px 0;
+}
+.top_button1 {
+    background: #F9C600;
+    border: none;
+}
+.top_button2 {
+    background: white;
+    border: 1px solid #1f1f1f;
+    margin-left: 10px;
+}
+.main2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.text1 {
+    width: 547px;
+    font-size: 42px;
+    line-height: 48px;
+    margin-top: 189px;
+    margin-bottom: 59px;
+}
+.green_rectangle {
+    width: 1400px;
+    height: 494px;
+    background: #51CEBC;
+    border-radius: 10px;
+    margin: 192px 32px;
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+.text2 {
+    font-size: 34px;
+    line-height: 40px;
+}
+.text3 {
+    font-size: 22px;
+    line-height: 32px;
+    margin-top: 50px;
+}
+.img_bicycle {
+    width: 678px;
+    height: 382px;
+    margin: 56px 0;
+}
+.rectangle_text {
+    width: 576px;
+    height: 248px;
+    margin-top: 115px;
+}
+.text4 {
+    font-size: 34px;
+    line-height: 40px;
+    width: 711px;
+    height: 80px;
+    margin-bottom: 57px;
+}
+.main_button1 {
+    background: #F9C600;
+    border: none;
+    margin-top: 127px;
+}
